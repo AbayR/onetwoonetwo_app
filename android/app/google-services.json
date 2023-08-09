@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239453495460",
+    "project_id": "onetwoonetwoapp",
+    "storage_bucket": "onetwoonetwoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239453495460:android:415b0b11919902e6b68631",
+        "android_client_info": {
+          "package_name": "com.onetwo.onetwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1K6nmtp0eztixXFEKJbhBVDlXzmdurrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239453495460:android:ad43c0a684937b37b68631",
+        "android_client_info": {
+          "package_name": "com.wlff.onetwoonetwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1K6nmtp0eztixXFEKJbhBVDlXzmdurrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
